@@ -1,0 +1,5 @@
+{
+    "/api/v1": "$1",
+    "/api/v1/tenants?page=:pagina&limit=:limite": "/tenants?_page=:pagina&_limit=:limite",
+    "/api/v1/tenants/:id": "/tenants/:id"
+  }
